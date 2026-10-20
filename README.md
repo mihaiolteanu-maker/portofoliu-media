@@ -10,6 +10,6 @@ Acest depozit conține portofoliul meu media.
 
 ## Autor
 
-- Nume: NUMELE TĂU
-- Clasa: CLASA TA
+- Nume: Olteanu Mihai Alexandru
+- Clasa: 12A
 -

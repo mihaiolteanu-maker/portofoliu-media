@@ -12,5 +12,4 @@ Acest depozit conține portofoliul meu media.
 
 - Nume: Olteanu Mihai Alexandru
 - Clasa: 12A
--<img width="493" height="740" alt="image" src="https://github.com/user-attachments/assets/e42649fd-75f0-46e3-aa9b-fb3d73dca986" />
 
